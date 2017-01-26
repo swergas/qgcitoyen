@@ -1,3 +1,5 @@
+# Présentation : L’argent et la création monétaire
+
 Comment fonctionne l’argent ? Quelle a été son évolution dans l’histoire ? Qui décide de l’augmentation de la masse monétaire ? Que se passe-t-il lorsqu’un crédit est accordé ? Comment fonctionne la politique monétaire ? Quelles sont les institutions en place, et quel est leur rôle ?
 
 Depuis environ 2 ans, je passe régulièrement un nombre d’heures assez important à me renseigner sur internet à propos de la monnaie (lire des articles, regarder des documentaires, des vidéos, etc).
