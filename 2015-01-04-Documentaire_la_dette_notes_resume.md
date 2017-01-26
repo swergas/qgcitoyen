@@ -1,4 +1,6 @@
-Voici des notes que j’ai prises en regardant le documentaire « La dette », produit par Régie Sud. Ça peut servir pour ceux qui n’ont pas le courage de le regarder en entier ou qui veulent retrouver rapidement ses principaux enseignements :).
+# Documentaire « La dette » : notes/résumé
+
+Voici des notes que j’ai prises en regardant le [documentaire « La dette »](http://ladettelefilm.blogspot.fr/p/bande-annonce.html), produit par Régie Sud. Ça peut servir pour ceux qui n’ont pas le courage de le regarder en entier ou qui veulent retrouver rapidement ses principaux enseignements :).
 
 ![Couverture du documentaire "La dette"](http://qgcitoyen.fr/wp-content/uploads/2014/12/DVD-PACK-V2.jpg "Couverture du documentaire « La dette »")
 
@@ -62,6 +64,8 @@ Les britaniques ont utilisé une loi anti-terroriste d’après 2001 contre Ices
 Il y avait aussi l’Union Européenne qui disait que le dossier de l’Islande était mal parti (l’Islande voulait rentrer dans l’Union Europénne et la zone Euro). Les habitants islandais demandent un référendum à leur gouvernement, en apportant une pétition signée par 25% de la population. Le président accepte d’organiser le référendum. Les islandais votent à 80% contre le remboursement par l’État de cette dette privée. Au bout de 2 ans, le pays retrouve la croissance. La question de rembourser se pose à nouveau (parce qu’avant, du fait de la crise de 2008, un remboursement aurait mis l’État dans une très mauvaise situation financière).
 
 La complexité est souvent un écran de fumée qui sert à nous distraire de l’essentiel ou nous tenir à l’écart.
+
+***
 
 Pour aller plus loin, voir notamment :
 
